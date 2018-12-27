@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html> 
+<head>
+<title>
+informatyka
+</title>
+</head>
+<body bgcolor=blue>
+<font size=30><font color=blue>Patryk Dembowski</font>
+<p><font size=18>
+kierunek
+<p>
+<font size=5><font color=blue>
+Zaliczenie z oceną</font>
+<hr>
+Hej<p>
+co<p>
+się<p>
+tutaj<p>
+dzieje?
+<hr size=5>
+miejsce na tekst
+<p> <u>miejsce na <b>tekst</b></u>
+
+<hr size=80 color=red>
+<img src="C:\Users\patryk\Desktop\tak\kot.jpg" alt="uzytykownik wylaczyl wyswietlanie grafiki na tej stronie internetowej ">
+<p><a href="https://www.google.com/search?q=kot&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi3r_3b5b_fAhXQZ1AKHRyBAOAQ_AUIDigB&biw=1920&bih=920#imgrc=Q3LU7FatjJNMoM">koty</a></p>
+<hr>
+<font color=red>
+A<Sup>B</Sup>+Y<Sup>2</Sup>=C<sup>2</Sup>
+</font>
+</body>
+</html>
